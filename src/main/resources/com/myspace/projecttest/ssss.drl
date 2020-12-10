@@ -1,2 +1,6 @@
 package com.myspace.projecttest;
-
+rule "te"
+when
+eval(true)
+then 
+end
